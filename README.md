@@ -42,10 +42,10 @@ The final dataset was aggregated at **city–year level (2024)**.
 ## 📊 Key Visualizations
 
 ### Traffic vs GDP per Capita
-![Traffic vs GDP](https://raw.githubusercontent.com/sergio-santoyo-data-analysis/urban-mobility-latam-analysis/main/traffic_vs_gdp.png)
+![Traffic](images/traffic_vs_gdp.png)
 
 ### Traffic Distribution
-![Distribution](https://raw.githubusercontent.com/sergio-santoyo-data-analysis/urban-mobility-latam-analysis/main/DISTRIBUCION.png)
+![Distribution](images/distribution.png)
 
 
 ---
