@@ -42,10 +42,10 @@ The final dataset was aggregated at **city–year level (2024)**.
 ## 📊 Key Visualizations
 
 ### Traffic vs GDP per Capita
-![Traffic](traffic_vs_gdp.png)
+![Traffic](images/traffic_vs_gdp.png)
 
 ### Traffic Distribution
-![Distribution](distribution.png)
+![Distribution](images/distribution.png)
 
 
 ---
